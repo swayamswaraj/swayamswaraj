@@ -39,11 +39,11 @@
 
 <div align="center">
 
-  <!-- GitHub Contribution Stats Card -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=swayamswaraj&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" />
-  
-  <!-- LeetCode Difficulty Stats -->
-  <img src="https://leetcard.jacoblin.cool/swayamswaraj?theme=dark&font=Montserrat&ext=contest" width="48%" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=swayamswaraj&theme=tokyonight&hide_border=true" width="48%" />
+
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/swayamswaraj?theme=dark&font=Montserrat&ext=heatmap" width="48%" />
 
 </div>
 
