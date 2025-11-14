@@ -35,12 +35,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 GitHub & LeetCode Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swayamswaraj&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamswaraj&layout=compact&theme=tokyonight" height="150" />
-</p>
+<div align="center">
+
+  <!-- GitHub Contribution Stats Card -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=swayamswaraj&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" />
+  
+  <!-- LeetCode Difficulty Stats -->
+  <img src="https://leetcard.jacoblin.cool/swayamswaraj?theme=dark&font=Montserrat&ext=contest" width="48%" />
+
+</div>
 
 ---
 
