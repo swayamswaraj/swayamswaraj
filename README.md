@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 I'm a **3rd year B.Tech CSE student** at **G.B Pant Delhi Skill and Entrepreneurship University** passionate about improving my skills in software development.
+- 🎓 I'm a **4th year B.Tech CSE student** at **G.B Pant Delhi Skill and Entrepreneurship University** passionate about improving my skills in software development.
 - 🤖 Currently learning **Machine Learning** and excited to dive deeper into the world of AI.
 - ☁️ Want to explore **Cloud Technologies** and **Cybersecurity** to build secure and scalable solutions.
 - 💡 I enjoy building real-world projects and continuously learning new tech.
