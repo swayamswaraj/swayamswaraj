@@ -40,10 +40,10 @@
 <div align="center">
 
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=swayamswaraj&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=swayamswaraj&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats" />
 
   <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/swayamswaraj?theme=dark&font=Montserrat&ext=heatmap" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/swayamswaraj?theme=dark&font=Montserrat&ext=heatmap" width="48%" alt="LeetCode Stats" />
 
 </div>
 
