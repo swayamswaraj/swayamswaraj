@@ -45,8 +45,12 @@
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/swayamswaraj?theme=dark&font=Montserrat&ext=heatmap" width="48%" alt="LeetCode Stats" />
 
-</div>
+  <br /><br />
 
+  <!-- LeetCode 52-Week Heatmap Graph -->
+  <img src="https://leetcard.jacoblin.cool/swayamswaraj?theme=dark&font=Montserrat&ext=heatmap" width="100%" alt="LeetCode Heatmap Graph" />
+
+</div>
 ---
 
 ## 🌐 Connect With Me
